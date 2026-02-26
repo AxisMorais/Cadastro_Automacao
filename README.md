@@ -6,7 +6,7 @@ Projeto criado para envio de mensagem no WhatsApp para clientes de determinada c
 ## Tecnologias utilizadas:
 - Python
 - Tkinter
-- pywhatkit
-- pandas
+- PyWhatKit
+- Pandas
 
   
