@@ -1,6 +1,8 @@
-#Projeto Python para envio de mensagem no WhatsApp
+#Projeto Automação Python
 
-##Tecnologias utilizadas:
+Projeto criado para envio de mensagem no WhatsApp para clientes de determinada categoria
+
+Tecnologias utilizadas:
 - Python
 - Tkinter
 - pywhatkit
